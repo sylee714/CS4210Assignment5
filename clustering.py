@@ -1,9 +1,9 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Seungyun Lee
 # FILENAME: clustering.py
-# SPECIFICATION: description of the program
+# SPECIFICATION: Practicing k-means clustering
 # FOR: CS 4210- Assignment #5
-# TIME SPENT: how long it took you to complete the assignment
+# TIME SPENT: 24 hr
 #-----------------------------------------------------------*/
 
 #importing some Python libraries
