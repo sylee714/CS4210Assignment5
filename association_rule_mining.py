@@ -13,11 +13,11 @@ from mlxtend.frequent_patterns import apriori, association_rules
 
 #Use the command: "pip install mlxtend" on your terminal to install the mlxtend library
 
-def count_support_counts(itemset, all_items):
+def count_support_counts(itemset, all_transactions):
     support_counts = 0
 
     # Go thru every row of all the items
-    for row in all_items:
+    for row in all_transactions:
         # Reset all_passed
         all_passed = True
         # Go thru every item in the itemset
